@@ -10,10 +10,13 @@ function strStr(haystack, needle) {
         else {
             idxStack += 1
         }
-
     }
     return -1
 }
+
+// var strStr = function(haystack, needle) {
+//     return haystack.indexOf(needle)
+// };
 
 
 strStr("sadbutsad", "sad")
