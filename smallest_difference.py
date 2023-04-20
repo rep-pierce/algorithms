@@ -12,3 +12,4 @@ def smallestDifference(array1, array2):
                 smallest_difference = difference
                 small_array = [i, j]
     return small_array
+
